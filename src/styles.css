@@ -20,7 +20,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 body {
@@ -127,8 +127,3 @@ footer {
     }
 }
 
-@media (max-width: 800px) {
-     * {
-        font-size: 20px;
-     }  
-}
